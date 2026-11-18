@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Game Turbo M12</string>
+    <string name="a11y_desc">Detects which game is in the foreground so the Game Turbo sidebar appears only in games, and performs the screenshot, recents and quick-settings shortcuts. It does not read screen content.</string>
+</resources>
